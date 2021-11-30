@@ -1,2 +1,3 @@
 # dry-bean-classification
-classifies bean into differnt class accordng to given features
+classifies bean into 7 differnt classes accordng to given features.
+
